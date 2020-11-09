@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+	<view >
+		<view class="tip">小程序自动打包框架</view>
+	</view>
+</view>
